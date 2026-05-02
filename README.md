@@ -1,13 +1,15 @@
-# Exercise-04c-Enemies
+# Project 7 One Button Game
+
+Press the Spacebar to jump!
+
+The game is an endless loop—try to collect as many coins as you can!
+
 
 ## Implementation
-I have added a score-incrementing feature for both collecting coins and defeating enemies.
 
-I have added Start and End scenes.
+1. I modified the Player.cs file so that the player automatically moves to the right, without the need to press A or D.
 
-I have implemented a feature that instantly teleports the player to the End scene whenever they fall to the ground.
-
-In total, there are 5 scenes and 3 levels.
+2. 
 
 ## References
 
@@ -18,8 +20,7 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
-## Future Development
-Try to make more enemies.
+
 
 ## Created by
 Peiwen Wang
