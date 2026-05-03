@@ -2,14 +2,18 @@
 
 Press the Spacebar to jump!
 
-The game is an endless loop—try to collect as many coins as you can!
-
 
 ## Implementation
 
 1. I modified the Player.cs file so that the player automatically moves to the right, without the need to press A or D.
 
-2. 
+2. In both the start and end scenes, press the Spacebar to start a new game.
+
+3. Touched by an enemy or a "spike" would result in death / go to the End Scene.
+
+4. Above the canvas, there is a coin counter and text displaying basic controls.
+
+5. Every time you pick up a coin, sound effect will be player.
 
 ## References
 
